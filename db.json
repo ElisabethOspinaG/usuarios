@@ -1,0 +1,12 @@
+{
+    "users": [
+        {"id": 1, 
+        "usarname": "Ana Ramirez", 
+        "age":"28", 
+        "email": "ana@gmail.com", 
+        "address": "calle", 
+        "password": "123",
+        "phone": "123456789"
+    }
+    ]
+}
